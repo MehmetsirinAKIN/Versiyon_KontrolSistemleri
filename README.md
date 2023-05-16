@@ -1,2 +1,3 @@
 # Versiyon_KontrolSistemleri
- VKS  tanımı,avantajve dezavantajları ile Git ve Mercurial a
+ VKS  tanımı,avantajve dezavantajları ile Git ve Mercurial açiklanmiştir
+ 
